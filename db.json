@@ -39,6 +39,15 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+
+   "name": "Avavrin Nirvana",
+      "restaurant": "tin roof",
+      "image": "assets/image-placeholder.jpg",
+      "rating": 7,
+      "comment": "Nice",
+      "id": 6
     }
   ]
 }
